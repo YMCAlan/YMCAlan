@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumingchang&label=Profile%20views&color=0e75b6&style=flat" alt="yumingchang" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yumingchang" alt="yumingchang" /></a> </p>
-
 - 🌱 I’m currently learning **Pytorch, C/C++, Python**
 
 - 📫 How to reach me **yumingchang9527@gmail.com**
 
-- ⚡ Fun fact **I think i'm best.**
+- ⚡ Fun fact **I think I'm best.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
