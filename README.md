@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">A 自宅警備員 from Taiwan</h3>
 
+- 🌱 I’m currently learning **Pytorch, C/C++, Python**
+
+- 📫 How to reach me **yumingchang9527@gmail.com**
+
+- ⚡ Fun fact **I think i'm best.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
