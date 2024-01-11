@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A 自宅警備員 from Taiwan</h3>
+<h3 align="center">A new graduate from taiwan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yumingchang&label=Profile%20views&color=0e75b6&style=flat" alt="yumingchang" /> </p>
 
@@ -7,12 +7,16 @@
 
 - 🌱 I’m currently learning **Pytorch, C/C++, Python**
 
+- 📝 I regularly write articles on [https://ymcalan.github.io/](https://ymcalan.github.io/)
+
 - 📫 How to reach me **yumingchang9527@gmail.com**
 
-- ⚡ Fun fact **I think i'm best.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FZ73ftWP6XXcex9qOeVz32xKPammKfml/view?usp=sharing](https://drive.google.com/file/d/1FZ73ftWP6XXcex9qOeVz32xKPammKfml/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/chang yuming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chang yuming" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/yumingchang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yumingchang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
