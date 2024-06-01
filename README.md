@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **yumingchang9527@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FZ73ftWP6XXcex9qOeVz32xKPammKfml/view?usp=sharing](https://drive.google.com/file/d/1FZ73ftWP6XXcex9qOeVz32xKPammKfml/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chang-yuming-04b47b291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chang-yuming-04b47b291/" height="30" width="40" /></a>
