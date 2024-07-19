@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Pytorch, C/C++, Python**
 
-- 📝 I regularly write articles on [https://ymcalan.github.io/](https://ymcalan.github.io/)
+- 📝 I regularly write articles on [Hackmd](https://hackmd.io/@A3gTfyntS6-RC2IuP91b7g)
 
 - 📫 How to reach me **yumingchang9527@gmail.com**
 
